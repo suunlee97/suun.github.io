@@ -18,7 +18,7 @@ Here is my full [Curriculum Vitae](/assets/pdf/cv_website.pdf)
   <div class="col-sm-3 text-muted">Jun 2026 – Sep 2026</div>
   <div class="col-sm-9">
     <b>Returning Intern: Research Scientist</b> (Scheduled)<br>
-    <i>IBM Thomas J. Watson Research Center</i>, Yorktown Heights, NY
+    <i>IBM Research</i>, Chicago, IL
   </div>
 </div>
 
