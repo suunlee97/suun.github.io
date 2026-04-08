@@ -37,7 +37,7 @@ I theoretically study quantum information and quantum computing. My research see
 - Learning/benchmarking quantum processes
 - Quantum error correction
 
-Email: suun@uchicago.edu \| [LinkedIn](https://www.linkedin.com/in/su-un-lee-35402a242/) \| [Google Scholar](https://scholar.google.com/citations?user=UfL_wmMAAAAJ&hl=en) \| [GitHub](https://github.com/suunlee97)
+Email: suun@uchicago.edu \| [LinkedIn](https://www.linkedin.com/in/suun/) \| [Google Scholar](https://scholar.google.com/citations?user=UfL_wmMAAAAJ&hl=en) \| [GitHub](https://github.com/suunlee97)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
