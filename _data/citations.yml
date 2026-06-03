@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-06-03'
 papers:
   UfL_wmMAAAAJ:9yKSN-GCB0IC:
     citations: 3
@@ -23,5 +23,5 @@ papers:
     year: '2024'
   UfL_wmMAAAAJ:zYLM7Y9cAGgC:
     citations: 1
-    title: Observation of Improved Accuracy over Classical Sparse Ground-State Solvers using a Quantum Computer
+    title: Observation of improved accuracy over classical sparse ground-state solvers using a quantum computer
     year: '2026'
