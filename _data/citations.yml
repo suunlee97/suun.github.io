@@ -1,8 +1,12 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-08-03'
 papers:
+  UfL_wmMAAAAJ:5nxA0vEk-isC:
+    citations: 1
+    title: Observable Estimation in the Absence of Classical Verification
+    year: '2026'
   UfL_wmMAAAAJ:9yKSN-GCB0IC:
-    citations: 7
+    citations: 12
     title: Classical simulation of noisy random circuits from exponential decay of correlation
     year: '2025'
   UfL_wmMAAAAJ:UeHWp8X0CEIC:
@@ -10,7 +14,7 @@ papers:
     title: Efficient learning of logical noise from syndrome data
     year: '2026'
   UfL_wmMAAAAJ:d1gkVwhDpl0C:
-    citations: 1
+    citations: 2
     title: Classically Sampling Noisy Quantum Circuits in Quasi-Polynomial Time under Approximate Markovianity
     year: '2025'
   UfL_wmMAAAAJ:roLk4NBRz8UC:
