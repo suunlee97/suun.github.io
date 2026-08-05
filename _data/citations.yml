@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-05'
 papers:
   UfL_wmMAAAAJ:5nxA0vEk-isC:
     citations: 1
@@ -30,6 +30,6 @@ papers:
     title: Universal spreading of conditional mutual information in noisy random circuits
     year: '2024'
   UfL_wmMAAAAJ:zYLM7Y9cAGgC:
-    citations: 3
+    citations: 4
     title: Observation of improved accuracy over classical sparse ground-state solvers using a quantum computer
     year: '2026'
